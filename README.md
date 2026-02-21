@@ -75,7 +75,8 @@ content-forge/
 │   ├── 01-discover.md          # 选题方法论（含用户需求挖掘指南）
 │   ├── 02-create.md            # 创作方法论
 │   ├── 03-review.md            # 审核方法论
-│   └── 04-ship.md              # 发布方法论
+│   ├── 04-ship.md              # 发布方法论（含数据驱动验证）
+│   └── 05-ai-assisted.md       # AI 辅助写作指南
 ├── templates/                   # 实战模板
 │   ├── article/                # 文章模板（4个）
 │   ├── course/                 # 课程模板（3个）
